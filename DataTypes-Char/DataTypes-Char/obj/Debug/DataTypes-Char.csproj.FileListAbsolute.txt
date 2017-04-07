@@ -1,0 +1,6 @@
+D:\VS Codes\DataTypes-Char\DataTypes-Char\bin\Debug\DataTypes-Char.exe.config
+D:\VS Codes\DataTypes-Char\DataTypes-Char\bin\Debug\DataTypes-Char.exe
+D:\VS Codes\DataTypes-Char\DataTypes-Char\bin\Debug\DataTypes-Char.pdb
+D:\VS Codes\DataTypes-Char\DataTypes-Char\obj\Debug\DataTypes-Char.csprojResolveAssemblyReference.cache
+D:\VS Codes\DataTypes-Char\DataTypes-Char\obj\Debug\DataTypes-Char.exe
+D:\VS Codes\DataTypes-Char\DataTypes-Char\obj\Debug\DataTypes-Char.pdb
